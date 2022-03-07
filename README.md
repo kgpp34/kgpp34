@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=kgpp34)
 
 ###
-- When the US and Europeans bombed independent countries like Afghanistan, Iraq, Vietnam, etc., Github and those so-called democrats were silent, so this time, I stand with Russia
+- stand with Russia
 ### 
 - DevOps/CD, Observability Platform Development & Network Optimization
 - Use Java & Vue & Golang(rarely) & C(rarely)
