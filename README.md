@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=kgpp34)
 
-### 
+### Profile
 - 🔭 Container App Deployment & Observability Platform Developer
 - 🌱 Don't like Java，But Java earns myself
 - ^ - ^ As u can see, None of my repos are Java Project
 
-###
-- Base ShangHai
+### AddressLine
+- JiLin 
+- ShenYang
+- DaLian
+- ShangHai
