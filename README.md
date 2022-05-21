@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 ### AddressLine
 - JiLin 
-- ShenYang
 - DaLian
 - ShangHai(Base)
