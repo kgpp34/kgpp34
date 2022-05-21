@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - JiLin 
 - ShenYang
 - DaLian
-- ShangHai
+- ShangHai(Base)
