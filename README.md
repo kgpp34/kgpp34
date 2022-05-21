@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=kgpp34)
 
 ### 
-- DevOps/CD, Observability Platform Development & Network Tracking
-- Use Java & Vue & C(rarely)
+- 🔭 Container App Deployment & Observability Platform Developer
+- 🌱 Don't like Java，But I need use Java to earn myself
+- ^ - ^ As u can see, None of my repos are Java Project
