@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 🔭 Container App Deployment & Observability Platform Developer
 - 🌱 Don't like Java，But Java earns myself
 - ^ - ^ As u can see, None of my repos are Java Project
+
+###
+- Base ShangHai
