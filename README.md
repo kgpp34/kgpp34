@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=kgpp34)
 
 ### Profile
-- 🔭 Container App Deployment & Observability Platform Developer
+- 🔭 Container Cloud Plateform & Observability Platform Developer
 
