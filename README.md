@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- ![kgpp34's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgpp34) -->
 
 ### Profile
-- 🔭 Container Plateform & k8s developer
+- 🔭 Container Platform & k8s developer
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgpp34)-->
