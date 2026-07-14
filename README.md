@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=kgpp34)
+![kgpp34's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgpp34)
 
 ### Profile
-- 🔭 Container Cloud Plateform & Observability Platform Developer
+- 🔭 Container Plateform & k8s developer
 
