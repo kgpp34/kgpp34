@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ### Profile
 - 🔭 Container Plateform & k8s developer
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgpp34)
