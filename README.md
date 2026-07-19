@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![kgpp34's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgpp34) -->
+[![kgpp34's GitHub stats](https://github-stats-extended.vercel.app/api?username=kgpp34)](https://github.com/stats-organization/github-stats-extended)
+
 
 ### Profile
 - 🔭 Container Platform & k8s developer
